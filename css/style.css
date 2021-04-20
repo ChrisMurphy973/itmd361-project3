@@ -1,0 +1,179 @@
+p, li{ 
+    color: #303030;
+    font-size: 0.75vw;
+}
+.default-font {
+    font-family: 'Crimson Text', serif;
+}
+.title-align { 
+    margin: 0em;
+    text-align: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+/*.floatclear{
+    clear: both;
+}*/
+.title{ 
+    font-family:'Cairo', sans-serif;
+    font-size: 4.6875em;
+    color: #fcd557;
+    margin: 0em;
+}
+.title2{ 
+    font-family:'Cairo', sans-serif;
+    font-size: 2.1875em;
+    color: #fcd557;
+    margin: 0em;
+}
+.title3{
+    font-family:'Cairo', sans-serif;
+    font-size: 1.1875em;
+    color: #fcd557;
+    margin: 0em;
+}
+.title4{
+    font-family:'Cairo', sans-serif;
+    font-size: 0.6875em;
+    color: #fcd557;
+    margin: 0em;
+}
+#wrapper {
+    width: 85.25em;
+    margin: auto;
+}
+head{
+    background-color: #929292;
+}
+body{
+    background-color: #929292;
+}
+  /* navbar */
+#main-navbar
+{
+	background-color: #fcd557;
+	overflow: hidden;
+	width: 100%;
+}
+
+#navbar-container
+{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+#main-navbar ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+    left: 50%;
+ 	float: left;
+ 	position: relative;
+}
+
+#main-navbar ul li
+{
+    display: block;
+ 	float: left;
+ 	right: 50%;
+ 	position: relative;
+}
+
+#main-navbar ul li a
+{
+	display: block;
+	padding: 20px 20px;
+	color: rgb(34, 34, 34);
+	text-decoration: none;
+    font-size: x-large;
+}
+
+#main-navbar ul li a:hover
+{
+	background-color: #929292;
+}
+/* index */
+#robotimage{
+    float: none;
+    border-radius: 8px;
+    position: relative;
+    width: 1024px;
+    height: 576px;
+}
+.aboutme-section{
+    border: 1px #929292;
+    padding: 10px;
+    height: 850px;
+    text-align: center;
+}
+.center{
+    border: 1px #929292;
+    padding: 10px;
+    text-align: center;
+    white-space: normal;
+}
+.contacts{
+    border: 1px #929292;
+    padding: 10px;
+    text-align: center;
+}
+/* resume */
+.education{
+    position: relative;
+    margin-bottom: 1em;
+    height: 24em;
+    width: 30em;
+}
+.extras{
+    float: right;
+    position: relative;
+    right: 4em;
+    bottom: 20em;
+}
+#profile{
+    margin-bottom: 1em;
+    height: 30%;
+    width: 30%;
+    float: right;
+}
+
+/* hobbies */
+.resize-photo{
+    height: 590px;
+    width: 920px;
+}
+.image-container{
+    float: right;
+    position: relative;
+    width: 920px;
+    height: 590px;
+}
+.imagesr{
+    float: right;
+    position: relative;
+    right: 10em;
+}
+#hobbytext{
+    position: fixed;
+    background-color:#929292;
+    padding: 1em;
+    font-size: 1vw;
+    width: 50%;
+}
+.iframe-container {
+    width: 920px;
+    height: 590px;
+}
+  
+.iframe-container iframe {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 590px;
+    width: 100%;
+}
