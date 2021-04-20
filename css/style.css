@@ -181,10 +181,7 @@ body{
 #map {
     margin: 0 auto;
     height: 900px;
-}
-
-.center {
-    text-align: center;
+    width: 100%;
 }
 
 .googleMapsInfo {
