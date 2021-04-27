@@ -171,11 +171,11 @@ body{
   
 .iframe-container iframe {
     border: 0;
-    height: 25%;
+    height: 20%;
     left: 0;
     position: absolute;
     top: 590px;
-    width: 91%;
+    width: 100%;
 }
 /* map */
 #map {
@@ -222,11 +222,11 @@ body{
       
 .iframe-container iframe {
     border: 0;
-    height: 25%;
+    height: 20%;
     left: 0;
     position: absolute;
     top: 590px;
-    width: 91%;
+    width: 100%;
 }
 }
 
@@ -258,10 +258,10 @@ body{
   
 .iframe-container iframe {
     border: 0;
-    height: 25%;
+    height: 20%;
     left: 0;
     position: absolute;
     top: 590px;
-    width: 91%;
+    width: 100%;
 }
 }
