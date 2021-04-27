@@ -214,6 +214,7 @@ body{
     height: auto;
     width: 40%;
     background-color:#fcd557;
+    left:8em;
 }
 .iframe-container {
     width: 40%;
@@ -225,7 +226,7 @@ body{
     height: 20%;
     left: 0;
     position: absolute;
-    top: 590px;
+    top: 150px;
     width: 100%;
 }
 }
@@ -250,6 +251,7 @@ body{
     height: auto;
     width: 40%;
     background-color: #fcd557;
+    left: 7em;
 }
 .iframe-container {
     width: 40%;
@@ -261,7 +263,7 @@ body{
     height: 20%;
     left: 0;
     position: absolute;
-    top: 590px;
+    top: 250px;
     width: 100%;
 }
 }
